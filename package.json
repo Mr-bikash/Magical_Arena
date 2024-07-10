@@ -1,0 +1,15 @@
+{
+    "name": "magical-arena",
+    "version": "1.0.0",
+    "description": "A simulation of a magical arena where two players fight.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "mocha": "^9.2.2"
+    },
+    "keywords": []
+}
